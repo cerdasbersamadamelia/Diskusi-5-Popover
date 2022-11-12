@@ -10,3 +10,8 @@ Ubahlah isi dari popover dengan identitas:
 Kumpulkan:
 1. Scrennshoot hasilnya
 2. Hasil koding pada file vue di folder src nya.
+
+Hasil run:
+
+![image](https://user-images.githubusercontent.com/72592250/201458241-dfdc3963-099a-4b46-97f7-81d7a7ea49be.png)
+![image](https://user-images.githubusercontent.com/72592250/201458248-9272d8de-8236-407c-a96a-92337f30f65b.png)
