@@ -1,0 +1,7 @@
+{
+  "name": "Diskusi5",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
